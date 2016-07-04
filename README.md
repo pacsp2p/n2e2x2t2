@@ -8,3 +8,8 @@ https://keep.google.com/
 We are using : Gmail, slack and github
 Desktop app for github https://github-windows.s3.amazonaws.com/GitHubSetup.exe
 https://slack.com/downloads
+URL: https://account.hanatrial.ondemand.com/cockpit
+user: pacsp2p@gmail.com
+pass : init.pass@1
+   p1942111529trial
+press this after loging in
